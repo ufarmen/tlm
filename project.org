@@ -8,12 +8,32 @@
 
 *** Database
 
+**** MongoDB
+
 *** Webserver
 
+**** NodeJS
+
 *** Programing
+
+**** Javascript --> NodeJS
 
 ** Frontend
 
 *** Programing
 
+**** Javascript
+
+**** HTML
+
+**** CSS
+
 *** Frameworks
+
+**** Express
+
+**** jQuery
+
+*** Visual
+   
+**** Slick assfuck
