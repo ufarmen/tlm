@@ -37,3 +37,14 @@
 *** Visual
    
 **** Slick assfuck
+
+
+* TODO's
+
+** TODO TLM [0%]
+ - [ ] Create a list of the most common groceries and their expiry date
+ - [ ] Populate database with created list
+ - [ ] Work out sketch of user interface/visuals
+ - [ ] Connect database to frontend
+ - [ ] create front-end logic
+ - [ ] create back-end logic
