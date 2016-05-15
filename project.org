@@ -1,0 +1,19 @@
+#+TITLE: Overview of TLM (Tasty Lemon)
+#+AUTHOR: Ulrik Bruun Farmen
+
+
+* Architecture 
+
+** Backend
+
+*** Database
+
+*** Webserver
+
+*** Programing
+
+** Frontend
+
+*** Programing
+
+*** Frameworks
